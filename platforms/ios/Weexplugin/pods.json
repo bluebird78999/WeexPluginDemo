@@ -1,0 +1,14 @@
+{
+    "GCanvas": {
+        "name": "GCanvas",
+        "type": "podspec",
+        "spec": "",
+        "count": 1
+    },
+    "SDWebImage": {
+        "name": "SDWebImage",
+        "type": "podspec",
+        "spec": "~>3.7.5",
+        "count": 1
+    }
+}

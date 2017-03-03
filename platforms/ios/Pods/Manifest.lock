@@ -1,0 +1,39 @@
+PODS:
+  - ATSDK-Weex (0.0.1)
+  - GCanvas (1.0.0.9)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SocketRocket (0.4.2)
+  - Weexplugin (0.0.1):
+    - GCanvas
+    - WeexSDK
+  - WeexSDK (0.10.1.8):
+    - SocketRocket
+  - WXDevtool (0.9.5.1):
+    - WeexSDK
+
+DEPENDENCIES:
+  - ATSDK-Weex (= 0.0.1)
+  - SDWebImage (= 3.7.5)
+  - SocketRocket (= 0.4.2)
+  - Weexplugin (from `./Weexplugin/`)
+  - WeexSDK
+  - WXDevtool
+
+EXTERNAL SOURCES:
+  Weexplugin:
+    :path: "./Weexplugin/"
+
+SPEC CHECKSUMS:
+  ATSDK-Weex: b8b0cd918489f6ade878974d13d13280330d1bb9
+  GCanvas: abc7989fbec60f63ca29a246e139c7ff6768c177
+  SDWebImage: 033e39d6f389724696c4d790b4daffcb4395a9f6
+  SocketRocket: b175da5a5955a301f15bea2217b5e1757ebfb2ac
+  Weexplugin: 42630db7ce7e4f4568e14370f860a74fcf3be2e0
+  WeexSDK: ec47d1f2f1fcb1b8221838d2cf9a8e2101e2b6e8
+  WXDevtool: 4232a5b596c0ee26a511afc177bbd5c4ddb0679d
+
+PODFILE CHECKSUM: dfdd05f3daee451d66966bd9497a3146d1694413
+
+COCOAPODS: 1.2.0

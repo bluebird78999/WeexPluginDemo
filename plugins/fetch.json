@@ -1,0 +1,10 @@
+{
+    "weex-gcanvas": {
+        "source": {
+            "type": "registry",
+            "id": "weex-gcanvas"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
